@@ -1,6 +1,6 @@
-# CaixaEletronio-TDD-
+# CaixaEletronio-TDD
 Codigo feito para praticar a metodologia TDD ultilizando Mocks para simular erros de hardware e suas tratativas
-# Requisitos
+## Requisitos
 Criar, utilizando TDD, uma classe chamada CaixaEletronico, juntamente com a classe ContaCorrente, que possuem os requisitos abaixo:
 
 - A classe CaixaEletronico possui os métodos logar(), sacar(), depositar() e saldo() e todas retornam uma String com a mensagem que será exibida na tela do caixa eletrônico.
